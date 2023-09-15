@@ -11,6 +11,7 @@ Versified Fix It - household service provider
 
 2. Create local directory:
     - Create a folder in your working directory for this project and navigate to that folder. Example;
+
     `mkdir -p ~/Sites/Drupal/vfi && cd ~/Sites/Drupal/vfi/`
 
 
