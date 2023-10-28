@@ -1,0 +1,10 @@
+name: vfi
+recipe: drupal10
+config:
+  webroot: ./web
+
+services:
+  appserver:
+    build_as_root:
+      - cd /app
+      - composer require drush/drush
