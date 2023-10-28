@@ -18,8 +18,8 @@ Versified Fix It - household service provider
     `git clone https://github.com/versitechgh/vfi.git .`
 
 4. Change directory into the project and install database.
-    `lando db-import drupal10.2023-10-28-1698490302.sql.gz`
-    Replace the db dump with the one you with to import.
+    `lando db-import db-vfi.gz`
+    Replace the db dump with the one you with to import. We have a sample db in this repo as an example [`db-vfi.gz`]
 
 5. Start the project.
     `lando start`
