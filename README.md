@@ -17,12 +17,12 @@ Versified Fix It - household service provider
 3. Clone repository into directory
     `git clone https://github.com/versitechgh/vfi.git .`
 
-4. Change directory into the project and install database.
+4. Start the project.
+    `lando start`
+
+5. Change directory into the project and install database.
     `lando db-import db-vfi.gz`
     Replace the db dump with the one you with to import. We have a sample db in this repo as an example [`db-vfi.gz`]
-
-5. Start the project.
-    `lando start`
 
 6. Visit the local dev site and login.
     - Use any of the urls provided after lando start
