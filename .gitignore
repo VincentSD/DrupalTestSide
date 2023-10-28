@@ -22,7 +22,7 @@
 
 # Ignore SQL dumps
 *.sql
-# *.sql.gz
+*.sql.gz
 
 # Ignore Mac .DS_Store
 .DS_Store
