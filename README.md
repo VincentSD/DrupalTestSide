@@ -15,7 +15,7 @@ Versified Fix It - household service provider
     `mkdir -p ~/Sites/Drupal/vfi && cd ~/Sites/Drupal/vfi/`
 
 3. Clone repository into directory
-    `git clone https://github.com/versitechgh/vfi.git .`
+    `[git clone https://github.com/versitechgh/vfi.git](https://github.com/VincentSD/DrupalTestSide.git) .`
 
 4. Start the project.
     `lando start`
